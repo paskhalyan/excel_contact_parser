@@ -1,0 +1,7 @@
+Django>=3.0,<4.0
+psycopg2-binary>=2.8,<3
+celery>=5.0.5,<5.1
+redis>=3.5.3,<3.6
+boto3>=1.12.27,<2.13
+django-storages>=1.11.1,<2.12
+openpyxl>=3.0.7,<3.1
